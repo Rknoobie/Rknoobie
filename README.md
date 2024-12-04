@@ -55,7 +55,7 @@ I’m a developer based in Singapore with a focus on automating work processes a
 
 - 📱 Phone: +65 8289 6626
 - ✉️ Email: [menber3@hotmail.com](mailto:menber3@hotmail.com) / [menberclone@hotmail.com](mailto:menberclone@hotmail.com)
-- LinkedIn: [www.linkedin.com/in/sebastian-ng-59043769](#) 
+- LinkedIn: [Sebastian Ng](https://www.linkedin.com/in/sebastian-ng-59043769)
 
 ## 🎯 Learning Goals
 
@@ -63,6 +63,7 @@ I’m a developer based in Singapore with a focus on automating work processes a
 - **Cloud Technologies**: I'm exploring cloud platforms like AWS and Google Cloud to expand my capabilities in deploying AI and automation solutions.
 - **Data Science & Analytics**: I’m looking to deepen my understanding of data analysis, machine learning, and data visualization tools like Pandas and Matplotlib.
 - **Accounting & Finance**: I’m interested in furthering my knowledge in financial technology (FinTech) and the latest trends in accounting automation.
+- **Accounting Automation**: Interested in exploring how automation can simplify complex accounting workflows, especially using Python and AI tools.
 
 
 
