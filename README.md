@@ -23,7 +23,7 @@ I’m a developer based in Singapore with a focus on automating work processes a
 - 🔭 I’m passionate about building AI models and automating repetitive work processes.
 - 🌱 I’m constantly looking to learn new technologies, especially around AI and automation.
 - 💬 Let’s connect if you’re interested in discussing AI, automation, or how to make workflows smarter!
-- 📫 Feel free to reach out to me via [email](menber3@hotmail.com) or [LinkedIn](www.linkedin.com/in/sebastian-ng-59043769).
+- 📫 Feel free to reach out to me via [email](mailto:menber3@hotmail.com) or [LinkedIn](https://www.linkedin.com/in/sebastian-ng-59043769).
 - ⚡ Fun fact: I love experimenting with new ways to optimize work, whether it’s through coding or creative problem-solving!
 
 ## 🚀 Skills
@@ -43,13 +43,12 @@ I’m a developer based in Singapore with a focus on automating work processes a
 
 ### [Mental Health](#)
 **Tech Stack**: Python, Pandas, JupyterLab
-- **Description**: Automated data cleaning and analysis processes to improve reporting accuracy in a corporate setting.
-- **My role**: Developed scripts to clean raw data, analyzed trends, and generated automated reports.
+- **Description**: Developed a solution to automate data cleaning and analysis of mental health survey data to improve reporting accuracy and provide actionable insights for HR and management teams.
+- **My role**: Designed and implemented Python scripts to clean raw data, applied statistical analysis to identify key trends, and created visualizations for better reporting.
 
 ## 🎓 Achievements & Certifications
 - Currently pursuing certifications in [Data Science]
 - Open to participating in hackathons and collaborative challenges in the future
-
 
 ## 📬 Contact Me
 
@@ -62,8 +61,9 @@ I’m a developer based in Singapore with a focus on automating work processes a
 - **AI & Automation**: I'm currently learning more about building AI models and automating work processes, especially using Python.
 - **Cloud Technologies**: I'm exploring cloud platforms like AWS and Google Cloud to expand my capabilities in deploying AI and automation solutions.
 - **Data Science & Analytics**: I’m looking to deepen my understanding of data analysis, machine learning, and data visualization tools like Pandas and Matplotlib.
-- **Accounting & Finance**: I’m interested in furthering my knowledge in financial technology (FinTech) and the latest trends in accounting automation.
 - **Accounting Automation**: Interested in exploring how automation can simplify complex accounting workflows, especially using Python and AI tools.
+- **Accounting & Finance**: I’m interested in furthering my knowledge in financial technology (FinTech) and the latest trends in accounting automation.
+
 
 
 
