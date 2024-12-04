@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Sebas 👋
 
-I’m a developer based in Singapore with a focus on automating work processes and building AI solutions. My primary tools include JupyterLab, Excel, and various accounting software, but I’m always exploring new ways to streamline tasks and improve efficiency. While I have experience across a variety of development tasks, I enjoy diving deep into data analysis, machine learning, and automation.
+I’m a accouting profession based in Singapore with a focus on automating work processes and building AI solutions. My primary tools include JupyterLab, Excel, and various accounting software, but I’m always exploring new ways to streamline tasks and improve efficiency. While I have experience across a variety of development tasks, I enjoy diving deep into data analysis, machine learning, and automation.
 
 - 🔭 I’m passionate about building AI models and automating repetitive work processes.
 - 🌱 I’m constantly looking to learn new technologies, especially around AI and automation.
